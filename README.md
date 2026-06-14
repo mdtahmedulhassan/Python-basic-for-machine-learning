@@ -69,13 +69,6 @@ jupyter notebook
 
 Then open any `.ipynb` file from the browser interface.
 
-### Running in the cloud (no setup required)
-
-You can open any notebook directly in Google Colab by clicking the badge below or uploading the `.ipynb` file manually:
-
-[![Open In Colab] (https://colab.research.google.com/github/mdtahmedulhassan/Python-basic-for-machine-learning/blob/main/NOTEBOOK_NAME.ipynb)
-
----
 
 ## 🧭 Recommended Learning Path
 
@@ -116,12 +109,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Tahmedul Hassan**
-Mathematics Undergraduate | Undergraduate Researcher in Data Science & ML
+**Tahmedul Hassan**  
+🎓 Mathematics Undergraduate  
+📊 Undergraduate Researcher in Data Science & ML
 
-[GitHub](https://github.com/mdtahmedulhassan) |  
-[Kaggle](https://www.kaggle.com/mdtahmedulhassan) |  
-[LinkedIn](https://www.linkedin.com/in/md-tahmedul-hassan/) |  
-[Email](tahmedulhassan@gmail.com)
+[GitHub](https://github.com/mdtahmedulhassan) |  [Kaggle](https://www.kaggle.com/mdtahmedulhassan) |  [LinkedIn](https://www.linkedin.com/in/md-tahmedul-hassan/) |  [Email](tahmedulhassan@gmail.com)
 
 ---
