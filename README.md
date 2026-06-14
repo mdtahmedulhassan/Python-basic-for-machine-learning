@@ -114,13 +114,14 @@ Feel free to open an issue or submit a pull request if you spot a mistake or wan
 This project is open source and available under the [MIT License](LICENSE).
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Tahmedul Hassan**
 Mathematics Undergraduate | Undergraduate Researcher in Data Science & ML
 
-📧 Email: [tahmedulhassan@gmail.com](mailto:your_email@example.com)
-🔗 LinkedIn: https://www.linkedin.com/in/md-tahmedul-hassan/
-📊 Kaggle: https://www.kaggle.com/mdtahmedulhassan
-💻 GitHub: https://github.com/mdtahmedulhassan
+[GitHub](https://github.com/mdtahmedulhassan) |  
+[Kaggle](https://www.kaggle.com/mdtahmedulhassan) |  
+[LinkedIn](https://www.linkedin.com/in/md-tahmedul-hassan/) |  
+[Email](tahmedulhassan@gmail.com)
+
 ---
