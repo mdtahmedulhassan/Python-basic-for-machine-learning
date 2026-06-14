@@ -50,7 +50,7 @@ Python-basic-for-machine-learning/
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.13
 - Jupyter Notebook or JupyterLab
 
 ### Running locally
