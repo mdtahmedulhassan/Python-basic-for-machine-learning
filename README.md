@@ -73,7 +73,7 @@ Then open any `.ipynb` file from the browser interface.
 
 You can open any notebook directly in Google Colab by clicking the badge below or uploading the `.ipynb` file manually:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab] (https://colab.research.google.com/github/mdtahmedulhassan/Python-basic-for-machine-learning/blob/main/NOTEBOOK_NAME.ipynb)
 
 ---
 
