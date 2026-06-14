@@ -117,10 +117,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Tahmedul Hassan**
-Mathematics Undergraduate | Aspiring Data Scientist & Machine Learning Engineer
+Mathematics Undergraduate | Undergraduate Researcher in Data Science & ML
 
-📧 Email: [your_email@example.com](mailto:your_email@example.com)
-🔗 LinkedIn: https://linkedin.com/in/your-profile
-📊 Kaggle: https://kaggle.com/your-profile
+📧 Email: [tahmedulhassan@gmail.com](mailto:your_email@example.com)
+🔗 LinkedIn: https://www.linkedin.com/in/md-tahmedul-hassan/
+📊 Kaggle: https://www.kaggle.com/mdtahmedulhassan
 💻 GitHub: https://github.com/mdtahmedulhassan
 ---
